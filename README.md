@@ -7,6 +7,6 @@
 <img align='right' src='![33Ho](https://github.com/ValeraBro/ValeraBro/assets/138037567/d8db22c9-ace7-4ba4-9797-5326e9a1f5dc)
 ' width='10"'>
 <div id="header" align="center">
-<img ![33Ho](https://github.com/ValeraBro/ValeraBro/assets/138037567/d8db22c9-ace7-4ba4-9797-5326e9a1f5dc) width="130"/>
+<img src=" ![33Ho](https://github.com/ValeraBro/ValeraBro/assets/138037567/d8db22c9-ace7-4ba4-9797-5326e9a1f5dc) " width="130"/>
 </div>
 
