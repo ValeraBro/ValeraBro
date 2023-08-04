@@ -38,7 +38,7 @@ I am a C# Developer <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.
 
 ### :fire: Languages stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeraBro&layout=compact&theme=merco)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeraBro&exclude_repo=MyTeam-Holiday/server-side&layout=donut&langs_count=10&theme=merco)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
