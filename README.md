@@ -31,6 +31,7 @@ I am a C# Developer <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="microsoftsqlserver"  alt="microsoftsqlserver" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="DonNET"   width="40" height="40"/>&nbsp;
 </div>
+
 ![33Ho](https://github.com/ValeraBro/ValeraBro/assets/138037567/d8db22c9-ace7-4ba4-9797-5326e9a1f5dc)
 
 
