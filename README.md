@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="130"/>
 </div>
-### Hi there 👋😄
 - I’m looking for help with C# amd you can ask me something about C#.
   
 ⚡Fun fact: Опытный разработчик всегда посмотрит направо и налево, даже если переходит улицу с односторонним движением 
