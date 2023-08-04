@@ -3,7 +3,7 @@
   
 ⚡Fun fact: Опытный разработчик всегда посмотрит направо и налево, даже если переходит улицу с односторонним движением 
 <img align='right' src='![33Ho](https://github.com/ValeraBro/ValeraBro/assets/138037567/d8db22c9-ace7-4ba4-9797-5326e9a1f5dc)
-' width='200"'>
+' width='10"'>
 
 ![33Ho](https://github.com/ValeraBro/ValeraBro/assets/138037567/d8db22c9-ace7-4ba4-9797-5326e9a1f5dc)
 
