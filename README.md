@@ -47,10 +47,10 @@ CSharp -->B{Valera }
 Js -->B{Valera }
 Py -->B{Valera }
 
-style CSharp fill:smokewhite,stroke:#383,stroke-width:3px,color:black
-style Js fill:smokewhite,stroke:#279,stroke-width:3px,color:black
-style Py fill:smokewhite,stroke:#86549575,stroke-width:3px,color:black
-style B fill:smokewhite,stroke:#F9A359,stroke-width:5px,color:Orange
+style CSharp fill:white,stroke:#383,stroke-width:3px,color:black
+style Js fill:white,stroke:#279,stroke-width:3px,color:black
+style Py fill:white,stroke:#86549575,stroke-width:3px,color:black
+style B fill:white,stroke:#F9A359,stroke-width:5px,color:Orange
 
 ```
 
