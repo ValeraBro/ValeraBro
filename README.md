@@ -8,8 +8,8 @@
 </a>
 
 ---
-I am a C# Developer <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="30">.
-- I’m looking for help with C# amd you can ask me something about C#.
+**I am a C# Developer** <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="30">.
+-I’m looking for help **with C#** and **you can ask me** something about C#.
   
 ⚡Fun fact: Опытный разработчик всегда посмотрит направо и налево, даже если переходит улицу с односторонним движением 
 <img align='right' src='![33Ho](https://github.com/ValeraBro/ValeraBro/assets/138037567/d8db22c9-ace7-4ba4-9797-5326e9a1f5dc)
@@ -39,6 +39,20 @@ I am a C# Developer <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.
 ### :fire: Languages stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeraBro&exclude_repo=MyTeam-Holiday/server-side&layout=donut&langs_count=10&theme=merco)](https://github.com/anuraghazra/github-readme-stats)
+
+
+```mermaid
+graph LR 
+CSharp -->B{Valera } 
+Js -->B{Valera }
+Py -->B{Valera }
+
+style CSharp fill:smokewhite,stroke:#383,stroke-width:3px,color:black
+style Js fill:smokewhite,stroke:#279,stroke-width:3px,color:black
+style Py fill:smokewhite,stroke:#86549575,stroke-width:3px,color:black
+style B fill:smokewhite,stroke:#F9A359,stroke-width:5px,color:Orange
+
+```
 
 ---
 
