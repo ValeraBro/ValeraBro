@@ -10,7 +10,6 @@
 ---
 **I am a C# Developer** <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="30">.
 
-
 -I’m looking for help **with C#** and **you can ask me** something about C#.
   
 ⚡Fun fact: Опытный разработчик всегда посмотрит направо и налево, даже если переходит улицу с односторонним движением 
