@@ -36,8 +36,6 @@ I am a C# Developer <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.
       <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" **alt="arduino-original" width="40" height="40"/>
 </div>
 
----
-
 ### :fire: Languages stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeraBro&exclude_repo=MyTeam-Holiday/server-side&layout=donut&langs_count=10&theme=merco)](https://github.com/anuraghazra/github-readme-stats)
