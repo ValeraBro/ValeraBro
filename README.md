@@ -42,7 +42,7 @@
 
 
 ```mermaid
-graph LR 
+graph  
 CSharp -->B{Valera } 
 Js -->B{Valera }
 Py -->B{Valera }
