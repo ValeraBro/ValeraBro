@@ -33,6 +33,7 @@ I am a C# Developer <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="raspberryPi" **alt="RPI" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" **alt="arduino-original" width="40" height="40"/>
 </div>
 
 ---
