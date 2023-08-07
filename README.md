@@ -16,6 +16,10 @@
 <img align='right' src='![33Ho](https://github.com/ValeraBro/ValeraBro/assets/138037567/d8db22c9-ace7-4ba4-9797-5326e9a1f5dc)
 ' width='10"'>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=CSharp%20Web%20Developer;In%20search%20of%20the%20new&font=Fira%20Code&center=true&width=440&height=45&color=7ef75c&vCenter=true&size=22"></a>
+</p> 
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
