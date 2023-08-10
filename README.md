@@ -7,11 +7,13 @@
 </div>
 </a>
 
+<a href="https://github.com/ValeraBro">
 <div id="badges" align="center">
   
 ![Static Badge](https://img.shields.io/badge/Portfolio-Portfolio?label=%3AD&labelColor=%2372fb37&link=https%3A%2F%2Fgithub.com%2FValeraBro)
 
 </div>
+</a>
 
 ---
 **I am a C# Developer** <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="30">.
