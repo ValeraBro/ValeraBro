@@ -10,8 +10,7 @@
 <a href="https://github.com/ValeraBro">
 <div id="badges" align="center">
   
-![Static Badge](https://img.shields.io/badge/Portfolio-Portfolio?label=%3AD&labelColor=%2372fb37&link=https%3A%2F%2Fgithub.com%2FValeraBro)
-
+![Static Badge](https://img.shields.io/badge/Portfolio-Portfolio?label=%3AD&labelColor=%2372fb37&link=https%3A%2F%2Fvalerabro.github.io%2)
 </div>
 </a>
 
